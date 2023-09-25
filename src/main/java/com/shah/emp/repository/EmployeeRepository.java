@@ -1,7 +1,6 @@
 package com.shah.emp.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-
 import com.shah.emp.entity.Employee;
 
 //JpaRepository interface provides various readily available CRUD methods
